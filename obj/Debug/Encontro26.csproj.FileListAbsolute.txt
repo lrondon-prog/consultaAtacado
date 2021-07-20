@@ -1,0 +1,14 @@
+C:\Users\PSG\source\repos\Program\Encontro26\bin\Debug\Encontro26.exe.config
+C:\Users\PSG\source\repos\Program\Encontro26\bin\Debug\Encontro26.exe
+C:\Users\PSG\source\repos\Program\Encontro26\bin\Debug\Encontro26.pdb
+C:\Users\PSG\source\repos\Program\Encontro26\obj\Debug\Encontro26.csprojAssemblyReference.cache
+C:\Users\PSG\source\repos\Program\Encontro26\obj\Debug\Encontro26.csproj.CoreCompileInputs.cache
+C:\Users\PSG\source\repos\Program\Encontro26\obj\Debug\Encontro26.exe
+C:\Users\PSG\source\repos\Program\Encontro26\obj\Debug\Encontro26.pdb
+C:\Users\PSG\Desktop\Luis\Encontro26\bin\Debug\Encontro26.exe.config
+C:\Users\PSG\Desktop\Luis\Encontro26\bin\Debug\Encontro26.exe
+C:\Users\PSG\Desktop\Luis\Encontro26\bin\Debug\Encontro26.pdb
+C:\Users\PSG\Desktop\Luis\Encontro26\obj\Debug\Encontro26.csproj.AssemblyReference.cache
+C:\Users\PSG\Desktop\Luis\Encontro26\obj\Debug\Encontro26.csproj.CoreCompileInputs.cache
+C:\Users\PSG\Desktop\Luis\Encontro26\obj\Debug\Encontro26.exe
+C:\Users\PSG\Desktop\Luis\Encontro26\obj\Debug\Encontro26.pdb
